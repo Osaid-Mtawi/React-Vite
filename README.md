@@ -52,3 +52,38 @@ export default tseslint.config({
   },
 })
 ```
+# README - Webpage Context
+
+## Overview
+This project is a travel booking webpage that provides users with an easy way to explore destinations, search for flights, and find accommodations. The webpage includes sections for flight searches, hotel recommendations, travel deals, and popular destinations.
+
+## Features
+- **Search Flights**: Users can search for return or one-way flights by entering departure and arrival locations along with travel dates.
+- **Recent Searches**: Displays past flight searches for quick access.
+- **Plan Your Trip**: Offers hotel, attractions, eateries, commute, taxi, and movie options for travelers.
+- **Most Popular Destinations**: Highlights trending travel destinations with pricing.
+- **Recommended Holidays**: Lists curated holiday packages with details on duration and pricing.
+- **Popular Stays**: Showcases top-rated accommodations with pricing and user reviews.
+- **Newsletter Subscription**: Allows users to subscribe for weekly updates on travel deals and news.
+- **Company Information**: Provides links to company details, support options, and travel advisories.
+
+## Technologies Used
+- HTML
+- Bootstrap
+- JavaScript
+
+## How to Use
+1. Open the webpage in a browser.
+2. Search for flights by entering the required details.
+3. Explore destinations and book accommodations.
+4. Subscribe to the newsletter for travel updates.
+
+## Future Enhancements
+- Integration with real-time flight APIs for live booking.
+- User login and personalized travel recommendations.
+- Enhanced UI/UX improvements for better navigation.
+
+## Contact
+For support or inquiries, visit our support center or refer to the FAQ section on the website.
+
+
